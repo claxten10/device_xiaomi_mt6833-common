@@ -653,7 +653,6 @@ on post-fs-data
     chmod 0666 /dev/exm0
 
     #Thermal
-    mkdir /data/vendor/.tp/ 0775 system system
     mkdir /data/vendor/thermal 0771 root system
     mkdir /data/vendor/thermal/config 0771 root system
 
