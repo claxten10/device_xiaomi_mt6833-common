@@ -227,6 +227,9 @@ PRODUCT_COPY_FILES += \
 
 # Media
 PRODUCT_PACKAGES += \
+    libstagefrighthw
+
+PRODUCT_PACKAGES += \
     libcodec2_hidl@1.2.vendor \
     libavservices_minijail.vendor \
     libstagefright_softomx_plugin.vendor \
