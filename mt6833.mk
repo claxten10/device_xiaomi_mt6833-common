@@ -47,6 +47,10 @@ PRODUCT_PACKAGES += \
     checkpoint_gc \
     otapreopt_script
 
+# AEE
+PRODUCT_PACKAGES += \
+    libaedv
+
 # Alarm
 PRODUCT_PACKAGES += \
     PowerOffAlarm

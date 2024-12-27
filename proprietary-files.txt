@@ -1,9 +1,5 @@
 # Unpinned blobs from opal-user 13 TP1A.220624.014 V14.0.5.0.TGLMIXM release-keys
 
-# AEE
--vendor/lib/libaedv.so
--vendor/lib64/libaedv.so
-
 # Audio
 -vendor/lib/libMtkSpeechEnh.so
 -vendor/lib/lib_iir.so
